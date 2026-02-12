@@ -1,5 +1,5 @@
 ---
-name: GoDoc-Canonical
+name: godoc-canonical
 description: A standard for writing idiomatic Go documentation that ensures comments are clear, concise, and perfectly rendered by the godoc tool.
 ---
 
